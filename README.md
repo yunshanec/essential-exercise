@@ -1,2 +1,2 @@
-# python_practice
-用于做一些自己的学习笔记
+# essential-practice
+用于记录一些学习内容
